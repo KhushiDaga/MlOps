@@ -1,0 +1,7 @@
+This is a car loan document.
+Car Loan details updated.
+<<<<<<< HEAD
+Different car loan information.
+=======
+New interest rate for car loan.
+>>>>>>> loan-updates
